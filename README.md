@@ -96,7 +96,7 @@ Now we are going to spoof a DNS
 let's see the module in bettercap using:
 
 ```
-hepl dns.spoof
+help dns.spoof
 ```
 
 ![image](https://github.com/anouerr357/Dns-Spoofing-with-bettercap/assets/124587170/536274db-d932-4aaa-ad6f-40b8b0e6ec8e)
