@@ -1,6 +1,6 @@
 # Dns-Spoofing-with-bettercap
 DNS Spoofing: How to Perform the Attack
-To execute DNS spoofing, we will require a Kali Linux machine and a target machine running Windows 7, XP, or 10. Now, let's proceed!
+To execute DNS spoofing, we will need a Kali Linux machine and a target machine running Windows 7, XP, or 10... Now, let's proceed!
 ![Anwer Lahami](https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/DNS-spoofing.jpg)
 ### installing bettercap :
 Bettercap is written in Go and provides a variety of features for interacting with networks, capturing and analyzing data, and performing various security-related tasks.
